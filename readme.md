@@ -1,4 +1,9 @@
-# Three.js Journey
+<h1 align="center">THREE JS GALAXY </h1>
+
+<img src="images/space.gif" />
+</br>
+<img src="images/space.png" />
+
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
